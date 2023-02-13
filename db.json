@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "javascript",
+      "author": "Son-dn"
+    },
+    {
+      "id": 2,
+      "name": "htmlCss pro",
+      "author": "Son-dn"
+    },
+    {
+      "name": "react-js",
+      "author": "ngtunglam",
+      "id": 3
+    },
+    {
+      "name": "test1",
+      "author": "root",
+      "id": 4
+    },
+    {
+      "name": "node-js",
+      "author": "Son-dn",
+      "id": 5
+    }
+  ]
+}
